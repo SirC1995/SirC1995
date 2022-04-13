@@ -4,7 +4,7 @@ I am a junior engineer from Poland
 
 - 🌱 I’m currently learning Python
 
-### Connect with me
+## Connect with me
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krzysiek-burdek-1a2254158/)
@@ -12,6 +12,6 @@ I am a junior engineer from Poland
 
 
 
-### Expertise
+## Expertise
 <img align="left" alt="medium" src="https://img.shields.io/badge/python-%23316192.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
